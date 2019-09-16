@@ -51,5 +51,9 @@ Caso queira mais detalhes dos testes, rode:
 ```
 pytest -s
 ```
+Ou, caso esteja no Windows sem as variáveis de ambiente para o Python3.6 rode:
+```
+C:\caminho\Python36\python.exe -m pytest -s
+```
 
 Assim você verá os prints e logs mais completos dos testes.
