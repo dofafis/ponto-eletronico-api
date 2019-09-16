@@ -1,0 +1,7 @@
+.vscode
+
+*.pyc
+
+app/migrations/alembic.ini
+
+app/migrations/
