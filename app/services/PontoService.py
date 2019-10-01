@@ -1,4 +1,4 @@
-from app import db
+from db import db
 from sqlalchemy import extract
 from datetime import datetime
 from models.Ponto import Ponto
