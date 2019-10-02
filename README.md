@@ -40,7 +40,7 @@ python3 run.py
 
 ## Testes Unitários
 
-Para rodar os testes unitários, basta ir na pasta do projeto 'ponto-eletronico-api' e rodar o seguinte comando:
+Para rodar os testes unitários é preciso criar um banco ponto-eletronico-test onde serão construídos os cenários de cada teste. Após isso, basta ir na pasta do projeto 'ponto-eletronico-api' e rodar o seguinte comando:
 
 ```
 pytest
