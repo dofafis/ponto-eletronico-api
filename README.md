@@ -33,8 +33,9 @@ python3 manage.py db upgrade
 - Agora que o banco está atualizado, basta rodar o servidor com:
 
 ```
-python3 run.py
+python3 run.py DevlopmentConfig
 ```
+OBS: DevelopmentConfig é o nome do arquivo de configuração do ambiente de desenvolvimento
 
 - Após a inicialização do servidor, vá em seu navegador na url 'http://localhost:5000/', se o servidor estiver rodando, você poderá ver a interface do Swagger com a documentação da API onde você já pode testar os endpoints da mesma.
 
